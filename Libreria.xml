@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Libreria.xsl"?>
+<ListaLibros>
+        <Libro>
+        <titulo>Casper y Mia</titulo>
+        <autor>Jose Antonio Fornell Márquez</autor>
+        <editor>SM</editor>
+        <isbn>788-5557-55-57</isbn>
+        <precio>50.06</precio>
+        <numPaginas>230</numPaginas>
+    </Libro>
+    <Libro>
+        <titulo>Los tres</titulo>
+        <autor>Alejandro Fornell Márquez</autor>
+        <editor>HK</editor>
+        <isbn>44-55-887-447</isbn>
+        <precio>13.00</precio>
+        <numPaginas>320</numPaginas>
+    </Libro>
+    <Libro>
+        <titulo>PHP</titulo>
+        <autor>Juan Carlos</autor>
+        <editor>HK</editor>
+        <isbn>632-224-723-187</isbn>
+        <precio>12.00</precio>
+        <numPaginas>150</numPaginas>
+    </Libro>
+    <Libro>
+        <titulo>Chinchon</titulo>
+        <autor>Pepe Flores</autor>
+        <editor>SM</editor>
+        <isbn>62-44-777-487</isbn>
+        <precio>9.00</precio>
+        <numPaginas>190</numPaginas>
+    </Libro>
+    <Libro>
+        <titulo>Seguridad Informática</titulo>
+        <autor>Juan Romero</autor>
+        <editor>SM</editor>
+        <isbn>8-77-887-127</isbn>
+        <precio>8.00</precio>
+        <numPaginas>500</numPaginas>
+    </Libro>
+    <Libro>
+        <titulo>XML</titulo>
+        <autor>Raul Lopez</autor>
+        <editor>Anaya</editor>
+        <isbn>88-55-9884-123</isbn>
+        <precio>10.00</precio>
+        <numPaginas>600</numPaginas>
+    </Libro>
+</ListaLibros>
